@@ -1,0 +1,37 @@
+persons:
+  -
+    email: 'koliya.p@sliit.lk'
+    phone: '0773 146 546'
+    main: true
+    name: "Prof. Koliya Pulasinghe"
+    title: "Supervisor"
+    image: "images/team/koliya-pulasinghe.jpg"
+  -
+    email: 'archchana.k@sliit.lk'
+    phone: '0777 123 456'
+    main: false
+    name: "Ms. Archchana Kugathasan"
+    title: "Co-Supervisor"
+    image: "images/team/archchana-kugathasan.jpg"
+  -
+    email: 'randika.banura@gmail.com'
+    phone: '0778 078 742'
+    main: false
+    name: "K.B.R. Perera"
+    title: "Member / Undergraduate"
+    image: "images/team/banura-randika.jpg"
+  -
+    email: 'dsanjana@gmail.com'
+    phone: '0771 524 587'
+    main: false
+    name: "Hettiarchchi D.S"
+    title: "Leader / Undergraduate"
+    image: "images/team/dumindu-sanjana.jpg"
+  -
+    email: 'randikal2020@gmail.com'
+    phone: '0769 807 576'
+    main: false
+    name: "P.D.R.L. Chandrasinghe"
+    title: "Member / Undergraduate"
+    image: "images/team/randika-lakshan.jpg"
+contact_button_link: 'contact'

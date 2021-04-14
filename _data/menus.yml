@@ -1,0 +1,74 @@
+main:
+  - name: "Scopes"
+    url: "/scopes/"
+    weight: 2
+  - name: "Products"
+    url: "/products/"
+    weight: 3
+  - name: "Milestones"
+    url: "/milestones/"
+    weight: 3
+    dropdowns:
+      - name: "Project Charter Submission"
+        url: "/milestones/project_charter_submission"
+        weight: 1
+      - name: "Project Proposal"
+        url: "/milestones/project_proposal"
+        weight: 2
+      - name: "Proposal Presentation"
+        url: "/milestones/proposal_presentation"
+        weight: 3
+      - name: "Progress Presentation 1"
+        url: "/milestones/progress_presentation_1"
+        weight: 4
+      - name: "Research Paper"
+        url: "/milestones/research_paper"
+        weight: 5
+      - name: "Progress Presentation 2"
+        url: "/milestones/progress_presentation_2"
+        weight: 6
+      - name: "Thesis Submission"
+        url: "/milestones/thesis_submission"
+        weight: 7
+      - name: "Code Review"
+        url: "/milestones/code_review"
+        weight: 8
+      - name: "Final Report Submission"
+        url: "/milestones/final_report_submission"
+        weight: 9
+      - name: "Final Presentation and Viva"
+        url: "/milestones/final_presentation_and_viva"
+        weight: 10
+  - name: "Downloads"
+    url: "#"
+    weight: 4
+    mobile: false
+    dropdowns:
+      - name: "Documents"
+        url: "/documents"
+        weight: 1
+      - name: "Presentations"
+        url: "/presentations"
+        weight: 2
+  - name: "Documents"
+    url: "/documents/"
+    weight: 4
+    desktop: false
+  - name: "Presentations"
+    url: "/presentations/"
+    weight: 5
+    desktop: false
+  - name: "About"
+    url: "/team/"
+    weight: 6
+  - name: "Contact"
+    url: "/contact/"
+    weight: 7
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contact"
+    url: "/contact/"
+    weight: 2
