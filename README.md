@@ -5,7 +5,7 @@ get real-time analysis.
 
 [Live Demo](https://healthfast.netlify.app/)
 
-![HealthFast screenshot](/ResearchWebsite/healthfast/screenshots/home-page.png)
+![HealthFast screenshot](./screenshots/home-page.png)
 
 ## Installation
 
